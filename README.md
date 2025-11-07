@@ -1,6 +1,16 @@
 # 🎨 MariSnap Studio
 
 A powerful Streamlit app for generating professional product ads using Bria AI's advanced image generation and manipulation APIs.
+---
+title: MariSnap Studio
+emoji: 📸
+colorFrom: pink
+colorTo: indigo
+sdk: streamlit
+sdk_version: "1.38.0"
+app_file: app.py
+pinned: false
+---
 
 ## 🌟 Features
 
